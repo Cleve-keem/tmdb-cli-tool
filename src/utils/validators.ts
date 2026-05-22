@@ -1,0 +1,1 @@
+const validateType = (type: string) => {};
